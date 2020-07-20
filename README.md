@@ -1,2 +1,2 @@
 # myspiders
-A few of the scrapy spiders I wrote for testing purposes.
+A few spiders I wrote in the past ....! 
